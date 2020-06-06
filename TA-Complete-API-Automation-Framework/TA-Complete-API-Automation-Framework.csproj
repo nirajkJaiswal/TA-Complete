@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>TA_Complete</RootNamespace>
+    <RootNamespace>TA_Complete_API_Automation_Framework</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
